@@ -23,8 +23,13 @@
 <br/>
 
 ## Reach me
+[<img width="34px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
+[<img width="34px" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>][instagram]
+
+<!--
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+-->
 
 [instagram]: https://www.instagram.com/gregoriogalletti/
 [linkedin]: https://www.linkedin.com/in/gregoriogalletti/
