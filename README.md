@@ -2,7 +2,7 @@
 
 ## Something about me
 - 🎓 **MSc Student in Computer Science and Engineering** at [Politecnico di Milano](polimi)
-- 🚩 **CTF Player** since October 2020
+- 🚩 **CTF Player** since October 2020 for [CangureTheFlat]()
 - 📚 Currently working on my Thesis: an **Intrusion Detection System in Automotive Networks**
 - 🔎 Currently looking for a better Thesis title
 - ❓ 
@@ -34,3 +34,4 @@
 [instagram]: https://www.instagram.com/gregoriogalletti/
 [linkedin]: https://www.linkedin.com/in/gregoriogalletti/
 [polimi]: https://www.polimi.it/it/
+[cangure]: https://github.com/gregalletti/CTF_writeups/README.md
