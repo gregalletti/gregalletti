@@ -34,4 +34,4 @@
 [instagram]: https://www.instagram.com/gregoriogalletti/
 [linkedin]: https://www.linkedin.com/in/gregoriogalletti/
 [polimi]: https://www.polimi.it/it/
-[cangure]: https://github.com/gregalletti/CTF_writeups/README.md
+[cangure]: https://github.com/gregalletti/CTF_writeups#readme
