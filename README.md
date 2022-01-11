@@ -1,4 +1,5 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=textBox&text1=text%20Box%20🤖&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+![banner](./banner.png)
+
 ## Something about me
 - 🎓 MSc Student in Computer Science and Engineering at Politecnico di Milano
 - 🚩 CTF Player since October 2020
