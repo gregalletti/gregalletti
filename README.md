@@ -1,5 +1,5 @@
 ### Hi there, I'm Gregorio! 👋🍻
-
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hacker%20Typer%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 ## Something about me
 - 🎓 MSc Student in Computer Science and Engineering at Politecnico di Milano
 - 🚩 CTF Player since October 2020
