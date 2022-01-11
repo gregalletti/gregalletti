@@ -2,7 +2,7 @@
 
 ## Something about me
 - 🎓 **MSc Student in Computer Science and Engineering** at [Politecnico di Milano](polimi)
-- 🚩 **CTF Player** since October 2020 for [CangureTheFlat]()
+- 🚩 **CTF Player** since October 2020 for [CangureTheFlat](cangure)
 - 📚 Currently working on my Thesis: an **Intrusion Detection System in Automotive Networks**
 - 🔎 Currently looking for a better Thesis title
 - ❓ 
