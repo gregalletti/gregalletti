@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Gregorio%20Galletti%20💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Gregorio%20Galletti%20💻&width=800&height=200)](https://github.com/Akshay090/svg-banners)
 
 ## Something about me
 - 🎓 MSc Student in Computer Science and Engineering at Politecnico di Milano
