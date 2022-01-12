@@ -19,7 +19,7 @@
 <img align="left" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="left" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-
+<br/><br/>
 
 ## Reach me
 [<img width="34px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
