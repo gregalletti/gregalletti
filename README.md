@@ -24,6 +24,7 @@
 ## Reach me
 [<img width="34px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
 [<img width="34px" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>][instagram]
+[<img width="34px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/>][leetcode]
 
 <!--
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -34,3 +35,5 @@
 [linkedin]: https://www.linkedin.com/in/gregoriogalletti/
 [polimi]: https://www.polimi.it/it/
 [cangure]: https://github.com/gregalletti/CTF_writeups#readme
+[leetcode]: https://leetcode.com/gregalletti/
+
