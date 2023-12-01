@@ -33,4 +33,4 @@
 [polimi]: https://www.polimi.it/it/
 [cangure]: https://github.com/gregalletti/CTF_writeups#readme
 [leetcode]: https://leetcode.com/gregalletti/
-[thesis]; https://www.politesi.polimi.it/handle/10589/195381
+[thesis]: https://www.politesi.polimi.it/handle/10589/195381
