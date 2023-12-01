@@ -1,9 +1,9 @@
 ![banner](./banner.png)
 
 ## Something about me
+- 💻 **Software Engineer** at UBS @ Zürich (CH)
 - 🎓 **MSc Graduate in Computer Science and Engineering** at [Politecnico di Milano][polimi]
 - 🚩 **CTF Player** since October 2020 for [CangureTheFlat][cangure]
-- 💻 **Software Engineer** at UBS @ Zürich (CH)
 - 📚 Check out my Master's Thesis: an [Intrusion Detection System for Automotive Networks][thesis]
 - ❓ 
 
